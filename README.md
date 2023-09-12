@@ -1,2 +1,2 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T4D4&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-[![T4D4's GitHub stats](https://github-readme-stats.vercel.app/api?username=T4D4&?count_private=true&?show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t4d4&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+[![T4D4's GitHub stats](https://github-readme-stats.vercel.app/api?username=T4D4-IU&?count_private=true&?show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
