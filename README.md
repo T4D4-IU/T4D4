@@ -53,8 +53,8 @@
 
 
 
-## Recently listend
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ol0wdz21wurovx56yrxr5bk4s&cover_image=true&theme=karaoke&show_offline=false&background_color=16e97c&interchange=false" /></div>
+## Recently Played  
+<div align="center"><img src="https://spotify-recently-played-readme.vercel.app/api?user=ol0wdz21wurovx56yrxr5bk4s" /></div>
 <br />
 
 ## Github Stats
