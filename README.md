@@ -60,7 +60,7 @@
 ## Github Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=T4D4-IU&theme=aura&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4D4-IU&hide_border=true&layout=donut&theme=aura&langs_count=10" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4D4-IU&hide=c,python&hide_border=true&layout=donut&theme=aura&langs_count=10" align="center" /></div>
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
