@@ -52,14 +52,11 @@
   </a>
 </div>
 
-## GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T4D4-IU&theme=aura&show_icons=true&count_private=true&hide_border=true" align="center" />
-</div>
+## GitHub Profile Summary
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T4D4-IU&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=T4D4-IU&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=T4D4-IU&theme=default)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4D4-IU&hide=c,python&hide_border=true&layout=donut&theme=aura&langs_count=10" align="center" />
-</div>
 
 ## Recently Played
 <div align="center">
