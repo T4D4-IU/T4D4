@@ -6,6 +6,15 @@
 
 ## MyFavorites
 <div align="center">
+    <a href="https://www.rust-lang.org/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
+  </a>
+  <a href="https://internetcomputer.org/" target="_blank">
+    <img style="margin: 10px" src="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZGZpbml0eVwvZmlsZVwvZmE0QTVhcUR4MWVWZVJFQTRiTnAucG5nIn0:dfinity:IdAJOMHSBmHNqnd87mG-FQjWJO9E7dGTG802kJeqRTk" alt="InternetComputer" height="50" />
+  </a>
+    <a href="https://svelte.dev/" target="_blank">
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="Svelte" height="50" />
+  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
   </a>
@@ -17,15 +26,6 @@
   </a>
   <a href="https://www.blender.org/" target="_blank">
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />
-  </a>
-  <a href="https://svelte.dev/" target="_blank">
-    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" alt="Svelte" height="50" />
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" />
-  </a>
-  <a href="https://internetcomputer.org/" target="_blank">
-    <img style="margin: 10px" src="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoiZGZpbml0eVwvZmlsZVwvZmE0QTVhcUR4MWVWZVJFQTRiTnAucG5nIn0:dfinity:IdAJOMHSBmHNqnd87mG-FQjWJO9E7dGTG802kJeqRTk" alt="InternetComputer" height="50" />
   </a>
 </div>
 
@@ -55,6 +55,7 @@
 ## GitHub Profile Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T4D4-IU&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=T4D4-IU&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=T4D4-IU&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=T4D4-IU&theme=default)
 
 
