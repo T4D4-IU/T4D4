@@ -31,7 +31,6 @@
 
 ## MySNS
 <div align="center">
-    <img src=https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=t4d4>
   <a href="https://github.com/https://github.com/T4D4-IU" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
@@ -48,6 +47,12 @@
     <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
   </a>
 </div>
+
+## Zenn Profile
+<div align="center">
+    <img src=https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=t4d4>
+</div>
+
 
 ## GitHub Profile Summary
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T4D4-IU&theme=default)
