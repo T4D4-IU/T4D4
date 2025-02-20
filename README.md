@@ -31,10 +31,7 @@
 
 ## MySNS
 <div align="center">
-  <a href="https://zenn.dev/t4d4">
-    <img src="https://badgen.org/img/zenn/t4d4/likes?style=for-the-badge" alt="Likes" />
-    <img src="https://badgen.org/img/zenn/t4d4/articles?style=for-the-badge" alt="Articles" />
-  </a>
+    <img src=https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=t4d4>
   <a href="https://github.com/https://github.com/T4D4-IU" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
