@@ -53,7 +53,9 @@
 
 ## Zenn Profile
 <div align="center">
-    <img src=https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=t4d4>
+    <a href="https://zenn.dev/t4d4">
+      <img src=https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=t4d4>
+    </a>
 </div>
 
 
